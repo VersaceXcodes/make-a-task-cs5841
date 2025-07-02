@@ -1,2 +1,3 @@
-# make-a-task-cs5841
-Generated project for make-a-task
+# make-a-task
+
+This is the README for make-a-task.
